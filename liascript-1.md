@@ -4,11 +4,12 @@ All possible videos are to be found in the following video portal of the TU Berg
 
 ## Channels
 Here is a first overview over all chemistry-related channels of the portal:
+
 [Institut für Technische Chemie](https://video.tu-freiberg.de/channel/Institut-fuer-Technische-Chemie/94)
 > This channel has 20 videos which are mainly lectures in German.
 
 [Stöchiometrisches Rechnen und qualitative Anorganische Stoffanalyse](https://video.tu-freiberg.de/channel/Stoechiometrisches-Rechnen-und-qualitative-anorganische-Stoffanalyse/33)
-> This channel has 32 videos which are not open to the public.
+> This channel has 32 videos which are not open to the public. And logged in you have to make an abo.
 
 [Institut für Biowissenschaften](https://video.tu-freiberg.de/channel/Institut-fuer-Biowissenschaften/107)
 > This channel does not have any videos.
@@ -23,7 +24,7 @@ Here is a first overview over all chemistry-related channels of the portal:
 > This channel has 84 videos which are mainly lectures.
 
 [Institut für Organische Chemie](https://video.tu-freiberg.de/channel/Institut-fuer-Organische-Chemie/16)
-> This channel has 88 videos which are not open to the public.
+> This channel has 88 videos which are not open to the public. And logged i you need an abo.
 
 [Anorganische Chemie](https://video.tu-freiberg.de/channel/Anorganische-Chemie/13)
 > This channel has 47 videos which are not open to the public.
@@ -88,6 +89,7 @@ A short look through all channels with available videos gave the following kinds
 | Channel name          | Total | Lectures | Experiments | Other |
 | --------------------- | ----- | -------- | ----------- | ----- |
 | Technische Chemie     | 20    | 20       | 0           | 0     |
+| Anorganische Chemie   | 47    | 15       | 26          | 6     |
 | Experimentalchemie    | 3     | 0        | 3           | 0     |
 | Analytische Chemie    | 59    | 51       | 0           | 8     |
 | Physikalische Chemie  | 84    | 83       | 0           | 1     |
