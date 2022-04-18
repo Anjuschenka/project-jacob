@@ -1,9 +1,9 @@
 # Potential videos
-
+All possible videos are to be found in the following video portal of the TU Bergakademie Freiberg:
 [video portal](https://video.tu-freiberg.de/)
 
 ## Channels
-
+Here is a first overview over all chemistry-related channels of the portal:
 [Institut für Technische Chemie](https://video.tu-freiberg.de/channel/Institut-fuer-Technische-Chemie/94)
 > This channel has 20 videos which are mainly lectures in German.
 
@@ -79,14 +79,9 @@
 [Circular Economy](https://video.tu-freiberg.de/channel/Circular-Economy/45)
 > This channel has 19 videos which seem to be interesting and in English.
 
-## Lectures
+But there are also a few nice videos which do not belong to these channels but include chemistry-related stuff. As it is difficult to find all of them, here are a few examples of these lone videos:
 
-## Experiments
-
-## Stories
-
-!?[Experimental Videos](https://video.tu-freiberg.de/video/4-Akt-der-Weihnachtsvorlesungsalternative-der-Fakultaet-fuer-Chemie-und-Physik-2021/984cdf53d605c563df375918582c76ea)
-> Part 4 of the Christmas Lectures
+- christmas stories
 
 ## Statistical overview
 
@@ -106,6 +101,15 @@
 | Chemieingenieurwesen  | 53    | 11       | 0           | 42    |
 | Biologie / Ökologie   | 3     | 3        | 0           | 0     |
 | Angewandte CFD        | 12    | 12       | 0           | 0     |
+
+## Lectures
+
+## Experiments
+
+## Stories
+
+!?[Experimental Videos](https://video.tu-freiberg.de/video/4-Akt-der-Weihnachtsvorlesungsalternative-der-Fakultaet-fuer-Chemie-und-Physik-2021/984cdf53d605c563df375918582c76ea)
+> Part 4 of the Christmas Lectures
 
 ## Links to software
 
