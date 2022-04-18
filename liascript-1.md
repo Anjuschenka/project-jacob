@@ -84,7 +84,7 @@ But there are also a few nice videos which do not belong to these channels but i
 - christmas stories
 
 ## Statistical overview
-
+A short look through all channels with available videos gave the following kinds of videos:
 | Channel name          | Total | Lectures | Experiments | Other |
 | --------------------- | ----- | -------- | ----------- | ----- |
 | Technische Chemie     | 20    | 20       | 0           | 0     |
@@ -103,8 +103,10 @@ But there are also a few nice videos which do not belong to these channels but i
 | Angewandte CFD        | 12    | 12       | 0           | 0     |
 
 ## Lectures
+Most lecture videos are not really relevant for first / second semester students. So here are a few lecture videos that should be okay.
 
 ## Experiments
+There were not many experimental videos but here are the few ones I found:
 
 ## Stories
 
@@ -117,4 +119,4 @@ But there are also a few nice videos which do not belong to these channels but i
 
 ## Ideas
 > sorted by topics
->
+> sorted by the kind of video
