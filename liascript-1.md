@@ -118,5 +118,6 @@ There were not many experimental videos but here are the few ones I found:
 ## Potential partners
 
 ## Ideas
-> sorted by topics\n
+> sorted by topics
+
 > sorted by the kind of video
